@@ -25,7 +25,6 @@ Once you select a square on AI's board, you can choose an action mode and adjust
 
 After you took an action, please press 'AI Move' bottom, then AI will choose square/action mode/parameters and action. 
 
-![截屏2025-10-31 20.16.14](/Users/vincent/Desktop/截屏2025-10-31 20.16.14.png)
 
 There are 4 symbols in the game: 
 
@@ -40,8 +39,6 @@ There are 4 symbols in the game:
 ```
 
 After an action, you'll be able to see the page like:
-
-![截屏2025-10-31 20.17.53](/Users/vincent/Desktop/截屏2025-10-31 20.17.53.png)
 
 Your and AI's scores are shown on the right side of the string 'AI' and 'You'. That score is calculated using measurement times, hits, misses, etc. The detailed explanation of how to calculate the score is on the **Score&Cost** part. 
 
